@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519688314911",
+    "project_id": "sathixh-coludstorage",
+    "storage_bucket": "sathixh-coludstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519688314911:android:d680225294f51b7797b52a",
+        "android_client_info": {
+          "package_name": "com.example.cloudstoragefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtWe18CdAVal3eLDo2QoOkLQDsJebZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
