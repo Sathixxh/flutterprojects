@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "323919578749",
+    "project_id": "sathishfb-9f59c",
+    "storage_bucket": "sathishfb-9f59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323919578749:android:0671639507105a274d1314",
+        "android_client_info": {
+          "package_name": "com.example.otpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323919578749-qgkff4nsfhpgaacea3fmocokj9jb82bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi21t33eNldo8TtBzv_5dtouJxTIkSpKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323919578749-qgkff4nsfhpgaacea3fmocokj9jb82bg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323919578749-j0qtbrofh9kg6trqlpcfk9a1ehd7m30h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sathishfb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323919578749:android:49594dcf7767e5904d1314",
+        "android_client_info": {
+          "package_name": "com.example.sathishfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323919578749-0449mc9g2n48551cfpovjktkjna1ctok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sathishfb",
+            "certificate_hash": "7ef5dcd537638e85034982cc9ef59a857654501a"
+          }
+        },
+        {
+          "client_id": "323919578749-qgkff4nsfhpgaacea3fmocokj9jb82bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi21t33eNldo8TtBzv_5dtouJxTIkSpKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323919578749-qgkff4nsfhpgaacea3fmocokj9jb82bg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323919578749-j0qtbrofh9kg6trqlpcfk9a1ehd7m30h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sathishfb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

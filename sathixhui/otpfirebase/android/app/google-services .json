@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026705198217",
+    "project_id": "otpwith-phone",
+    "storage_bucket": "otpwith-phone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026705198217:android:4fecb152b6227b8cd00a58",
+        "android_client_info": {
+          "package_name": "com.example.otpfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0S06kCVVv5CLRh_agYdG9FoiZMWxTRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
